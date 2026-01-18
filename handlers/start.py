@@ -1,9 +1,9 @@
 # ============================================================
 #Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+# Author: Zerox (https://github.com/itszerox_official)
+# Support: https://t.me/VoidRealm_Official
+# Channel: https://t.me/Knull_Reaml
+# YouTube: https://youtube.com/@its-zerox-official
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
@@ -27,7 +27,7 @@ def register_handlers(app: Client):
 
    ✨ Hello {user}! ✨
 
-👋 I am Nomad 🤖 
+👋 I am Group manager 🤖 
 
 Highlights:
 ─────────────────────────────
