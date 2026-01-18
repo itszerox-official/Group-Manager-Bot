@@ -1,9 +1,9 @@
-# License for Nomad – Telegram Group Manager Bot
+# License for GhoulxGroupHelper – Telegram Group Manager Bot
 
-**Author:** [LearningBotsOfficial](https://github.com/LearningBotsOfficial)  
-**Support Group:** [@LearningBotsCommunity](https://t.me/LearningBotsCommunity)  
-**Update Channel:** [@learning_bots](https://t.me/learning_bots)  
-**YouTube:** [Learning Bots](https://youtube.com/@learning_bots)
+**Author:** [Zerox](https://github.com/itszerox-official)  
+**Support Group:** [@LearningBotsCommunity](https://t.me/VoidRealm_Official)  
+**Update Channel:** [@learning_bots](https://t.me/Knull_Realm)  
+**YouTube:** [Learning Bots](https://youtube.com/@its-zerox-official)
 
 ---
 
@@ -20,9 +20,6 @@ This project is **open-source**, but usage is governed by the following rules:
 - You may **not remove or alter author credits** from the source code, bot messages, or README.  
 - You may **not sell, rent, or redistribute** this code or any modified version for profit.  
 - You may **not claim ownership** or re-upload the project under a different name without explicit written permission.
-
-### ⚠️ Commercial Use
-If you want to use this bot or code commercially, you **must contact the author** and obtain written permission via [@LearningBotsOfficial](https://t.me/LearningBotsOfficial).
 
 ---
 
