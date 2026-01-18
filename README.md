@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://files.catbox.moe/4p4kue.jpg">
-  <img src="https://files.catbox.moe/4p4kue.jpg" width="300" height="300" />
+<a href="https://files.catbox.moe/jhfdfq.jpg">
+  <img src="https://files.catbox.moe/jhfdfq.jpg" width="300" height="300" />
 </a>
 
 ![Stars](https://img.shields.io/github/stars/LearningBotsOfficial/Nomade)
@@ -136,10 +136,10 @@ python3 main.py
 ## 📱 Connect with Me
 
 <p align="center">
-<a href="https://www.instagram.com/learning_bots"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://t.me/LearningBotsCommunity"><img src="https://img.shields.io/badge/Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://t.me/learning_bots"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/@learning_bots?si=aNUuRSfZD7na78GM"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/itszerox_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://t.me/Knull_Realm"><img src="https://img.shields.io/badge/Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/VoidRealm_Official"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://youtube.com/@its-zerox-official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
@@ -159,14 +159,14 @@ This project is open-source under a **custom license** by [Yash](https://github.
 - Claim ownership or re-upload it without permission  
 
 If you want to use this project commercially,  
-please contact the author at [LearningBotsOfficial](https://t.me/LearningBotsOfficial).
+please contact the author at [Void Realm](https://t.me/VoidRealm_Official).
 
 ---
 
-**Author:** [LearningBotsOfficial](https://github.com/LearningBotsOfficial)  
-**Support Group:** [@LearningBotsCommunity](https://t.me/LearningBotsCommunity)  
-**Update Channel:** [@learning_bots](https://t.me/learning_bots)  
-**YouTube:** [Learning Bots](https://youtube.com/@learning_bots)
+**Author:** [Zerox](https://github.com/itszerox-official)  
+**Support Group:** [@VoidRealm_official](https://t.me/VoidRealm_official)  
+**Update Channel:** [@Knull_Realm](https://t.me/Knull_Realm)  
+**YouTube:** [@its-zerox-official](https://youtube.com/@its-zerox-official)
 
 
 <div align="center">
