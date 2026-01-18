@@ -1,9 +1,9 @@
 # License for GhoulxGroupHelper – Telegram Group Manager Bot
 
 **Author:** [Zerox](https://github.com/itszerox-official)  
-**Support Group:** [@LearningBotsCommunity](https://t.me/VoidRealm_Official)  
-**Update Channel:** [@learning_bots](https://t.me/Knull_Realm)  
-**YouTube:** [Learning Bots](https://youtube.com/@its-zerox-official)
+**Support Group:** [@VoidRealm_Official](https://t.me/VoidRealm_Official)  
+**Update Channel:** [@Knull_Realm](https://t.me/Knull_Realm)  
+**YouTube:** [Zerox](https://youtube.com/@its-zerox-official)
 
 ---
 
