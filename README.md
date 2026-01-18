@@ -4,9 +4,6 @@
   <img src="https://files.catbox.moe/jhfdfq.jpg" width="300" height="300" />
 </a>
 
-![Stars](https://img.shields.io/github/stars/LearningBotsOfficial/Nomade)
-![Forks](https://img.shields.io/github/forks/LearningBotsOfficial/Nomade)
-
 ----------------------------------------------------
 A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Telegram groups
 
@@ -146,7 +143,7 @@ python3 main.py
 
 ## ⚠️ License / Usage Terms
 
-This project is open-source under a **custom license** by [Yash](https://github.com/LearningBotsOfficial).
+This project is open-source under a **custom license** by [Zerox](https://github.com/itszerox-official).
 
 ✅ You Can:
 - Use this code for personal or educational purposes  
