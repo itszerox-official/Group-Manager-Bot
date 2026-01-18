@@ -46,7 +46,7 @@ Highlights:
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={@Itszerox_fr}"),
+                InlineKeyboardButton("※ ŎŴɳēŔ ※", url="https://t.me/Itszerox_fr"),
            
                 
             ],
