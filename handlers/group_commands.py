@@ -1,9 +1,9 @@
 # ============================================================
-# Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+#Group Manager Bot
+# Author: Zerox (https://github.com/itszerox_official) 
+# Support: https://t.me/VoidRealm_Official
+# Channel: https://t.me/Knull_Reaml
+# YouTube: https://youtube.com/@its-zerox-official
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
